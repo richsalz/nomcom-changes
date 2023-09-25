@@ -57,15 +57,15 @@ from two to three.
 
 # Introduction
 
-Each year the NomCom process {{!RFC8713}} is actually two processes
--- finding out anew
-how to be a NomCom and conduct its business and then secondly undertaking the
+Each year the IETF Nomincations Committee ("NomCom")
+process {{!RFC8713}} is actually two processes -- finding out anew
+how to be a NomCom and conduct its business and then secondly performing the
 work of the NomCom in selecting individuals to undertake the various roles
-for which the NomCom has responsibility. This applies to both the chair and
+for which the NomCom has responsibility. This applies to both the Chair and
 to the voting volunteer members of the NomCom.
 
-The inclusion of the past chair into the NomCom as a non-voting member
-mitigates this to some extent, but the past chair is constrained as to the
+The inclusion of the past Chair into the NomCom as a non-voting member
+mitigates this to some extent, but the past Chair is constrained as to the
 level of advice that can be offerred.  They are also do not vote on the
 actual selections, and are therefore unable to make any concerete changes
 from year to year.
@@ -80,7 +80,7 @@ from two to three.
 
 # Conventions and Definitions
 
-{{!RFC8713}} documents how the IETF Nominations Committee ("NomCom")
+{{!RFC8713}} documents how the IETF Nominations Committee
 operates. That document refers to the meetings by ordinals; for ease of
 understanding, this document uses March, July, and November instead of
 First, Second, Third, respectively.
@@ -97,6 +97,8 @@ The NomCom chair serves for three years, each year is known as
 Incoming Chair, Chair, and Past Chair.
 The voting rules for Chair and Past Chair do not change.
 The Incoming Chair does not vote and does not count for quorum.
+
+> **ISSUE** Is that last sentence what we want?
 
 # Implementation
 
@@ -157,8 +159,8 @@ For example, a participant in years *N* and *N+1* will have to ensure
 that they do not discuss *N+1* items with someone who was a participant
 in *N* and *N-1*.
 
-Indeed, a key goal of this document is to introduce greater continuity
-across NomComs/
+Note, however, that the key goal of this document is to introduce greater
+continuity across NomComs.
 
 # IANA Considerations
 
@@ -166,7 +168,8 @@ This document has no IANA actions.
 
 # LLC Considerations
 
-The LLC is requested to provide free registration for the NomCom Chair and
+The LLC is requested to provide free registration for the NomCom Chair
+(and only the current Chair) and
 the voting volunteers for the November meeting as that is when most of
 the candidate interviews are done.
 
