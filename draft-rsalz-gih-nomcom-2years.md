@@ -1,7 +1,7 @@
 ---
 title: "Two-year terms for NomCom volunteers"
 abbrev: "TODO - Abbreviation"
-docname: draft-rsalz-gih-nomcom-2year-latest
+docname: draft-rsalz-gih-nomcom-2years-latest
 category: bcp
 
 submissiontype: IETF
