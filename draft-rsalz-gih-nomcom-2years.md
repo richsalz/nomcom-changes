@@ -137,7 +137,8 @@ the next person for that group should be chosen.
 
 # Diversity Considerations
 
-This comes from John Kleinsin (abridged) and I think makes some valid points.
+> **RS** This comes from some other correspondence and I think there
+are some valid points here.
 
 ~~~
 
@@ -162,6 +163,12 @@ mistake.
 # Security Considerations
 
 The security considerations of {{Section 9 of RFC8713}} are still applicable.
+
+One possible concern is that organizations with an agenda now have two years to
+exercise it, and in their second year will be more competent to use their
+influence with respect to that agenda. Maintaining the requirement that at
+most two people can be from the same organization as defined in
+{{Section 4.17 of RFC8713}} should help mitigate that.
 
 In addition, since the term of office for the Chair and the voting volunteers
 is being extended by a year, all will be participants in more than one
@@ -189,6 +196,9 @@ the candidate interviews are done.
 
 > **GH** Really? If the nomcom folk need free rego to to attend an IETF then
 the wheels have fallen off in my view!
+
+> **RS** Since most of the November meeting could be spent interviewing, for
+diversity/inclusion it makes sense to me.  But TBD.
 
 --- back
 
